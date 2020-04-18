@@ -1,0 +1,8 @@
+.fons{
+    background: url("https://i.gifer.com/ehy.gif") 50% 50%;
+}
+@media screen and (max-width: 1250px){
+    .cardHeader{
+        width: 100%;
+    }
+}
