@@ -1,0 +1,8 @@
+.fon{
+    background-image: url("../../assets/image/1.jpg");
+}
+@media screen and (max-width: 1250px){
+    .cardHeader{
+        width: 100%;
+    }
+}
