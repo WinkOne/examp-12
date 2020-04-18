@@ -1,0 +1,22 @@
+.headerBlockTitle{
+    margin-top: 30px;
+}
+.blockWindow{
+    display: flex;
+    flex-wrap: wrap
+}
+.card{
+    width: 30%;
+    margin: 10px;
+    border: 1px solid #3330CE;
+}
+.cardImg{
+    width: 100%;
+    height: 250px;
+}
+.cardBtnBlock{
+    margin: 0 auto;
+}
+.cardBtn{
+    margin: 0 15px;
+}

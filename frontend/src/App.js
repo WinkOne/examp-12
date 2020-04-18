@@ -4,8 +4,8 @@ import {Route, Switch} from "react-router-dom";
 import Register from "./containers/Register/Register";
 import Login from "./containers/Login/Login";
 import ButtonAppBar from "./components/UI/Toolbar/ButtonAppBar";
-import AddImage from "./containers/AddNewCocktail/AddImage";
-import UserGallery from "./containers/MyCocktail/UserGallery";
+import AddImage from "./containers/Add/AddImage";
+import UserGallery from "./containers/UserGallery/UserGallery";
 
 
 function App() {
